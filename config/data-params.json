@@ -1,0 +1,8 @@
+
+   
+{
+    "file1": "/test/testdata/20211026T184846_200-300-iperf.csv",
+    "file2": "/test/testdata/20211026T184846_200-1000-iperf.csv",
+    "file3": "/test/testdata/20211026T184846_200-25000-iperf.csv",
+    "file4": "/test/testdata/20211026T184847_200-5000-iperf.csv"
+}
