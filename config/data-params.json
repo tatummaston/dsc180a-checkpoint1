@@ -1,8 +1,24 @@
-
-   
 {
-    "file1": "/test/testdata/20211026T184846_200-300-iperf.csv",
-    "file2": "/test/testdata/20211026T184846_200-1000-iperf.csv",
-    "file3": "/test/testdata/20211026T184846_200-25000-iperf.csv",
-    "file4": "/test/testdata/20211026T184847_200-5000-iperf.csv"
+    "file1": "data/packet loss changes/20211026T184846_200-300-iperf.csv",
+    "file2": "data/packet loss changes/20211023T012231_200-750-iperf.csv",
+    "file3": "data/packet loss changes/20211023T012231_200-750-iperf.csv",
+    "file4": "data/packet loss changes/20211026T184847_200-5000-iperf.csv",
+    "file5": "data/packet loss changes/20211023T012228_200-500-iperf.csv",
+    "file6": "data/packet loss changes/20211023T012231_200-750-iperf.csv",
+    "file7": "data/packet loss changes/20211104T232610_200-200-iperf.csv",
+    "file8": "data/packet loss changes/20211104T232611_200-400-iperf.csv",
+    "file9": "data/packet loss changes/20211104T232612_200-600-iperf.csv",
+    "file10": "data/packet loss changes/20211105T000042_200-800-iperf.csv",
+    "file11": "data/packet loss changes/20211105T000043_200-1000-iperf.csv",
+    "file12": "data/packet loss changes/20211105T000045_200-1200-iperf.csv",
+    "file13": "data/packet loss changes/20211105T001218_200-800-iperf.csv",
+    "file14": "data/packet loss changes/20211105T003333_200-2000-iperf.csv",
+    "file15": "data/packet loss changes/20211105T003336_200-1400-iperf.csv",
+    "file16": "data/packet loss changes/20211105T003338_200-1800-iperf.csv",
+    "file17": "data/packet loss changes/20211105T004747_200-2000-iperf.csv",
+    "file18": "data/20211110T224018_10-10000-iperf.csv",
+    "file19": "data/20211110T231000_50-10000-iperf.csv",
+    "file20": "data/20211111T002932_100-10000-iperf.csv",
+    "file21": "data/20211111T054500_150-10000-iperf.csv",
+    "file22": "data/20211112T183306_200-10000-iperf.csv"
 }
