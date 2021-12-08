@@ -13,12 +13,12 @@ from sklearn.model_selection import train_test_split
 from sklearn import datasets, linear_model
 from sklearn.metrics import mean_squared_error, r2_score
 
-def latency_data_prep(file1, file2, file3, file4, file5):
-  latency_10 = pd.read_csv(file1)
-  latency_50 = pd.read_csv(file2)
-  latency_100 = pd.read_csv(file3)
-  latency_150 = pd.read_csv(file4)
-  latency_200 = pd.read_csv(file5)
+def latency_data_prep(file18, file19, file20, file21, file22):
+  latency_10 = pd.read_csv(file18)
+  latency_50 = pd.read_csv(file19)
+  latency_100 = pd.read_csv(file20)
+  latency_150 = pd.read_csv(file21)
+  latency_200 = pd.read_csv(file22)
   
   def pckt_count(a):
     a = a.split(';')
